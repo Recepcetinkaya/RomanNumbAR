@@ -1,8 +1,9 @@
 
 
 **Recep ÇETİNKATYA-21541032**
+---
 Youtube Videosu
--
+---
 
 ## BİR ROMALI GİBİ SAY
 
@@ -44,18 +45,6 @@ Youtube Videosu
 ### 7. Hafta
 - Kullanıcı Deneyimini İyileştirecek Son Testler ve Bakkımları Yapıldı
  
-
----
-
-## Kaynaklar
-- [Trello](https://trello.com/b/P7hrvxrP)
-- [Instagram](https://www.instagram.com/creamoneyapp/)
-- [Web Sitesi](https://cloud-adventurer-web.vercel.app/)
-- [Gereksinim Analizi Dokümanı](https://drive.google.com/file/d/1Tvi_rZ6GWiKBniogvSs-iZPWgnV_6EHb/view?usp=sharing)
-- [UML Diyagramları](https://drive.google.com/file/d/18dyHRb4_9otS52EJjueIRHzM5MyZq_Dn/view?usp=sharing)
-- [SWOT Analizi](https://www.canva.com/design/DAGUbjgffQ0/yQLrXyzqwDXuMPKHRSDU1g/edit?utm_content=DAGUbjgffQ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Renk Paleti](https://colorhunt.co/palette/222831393e4600adb5eeeeee)
-- [Figma Tasarımı](https://www.figma.com/design/hS9lL3RjlHZOPlyLyEPVNF/Untitled?node-id=0-1&t=TDmLttYSojRCXCQG-1)
 
 ---
 
