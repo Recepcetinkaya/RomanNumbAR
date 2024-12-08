@@ -25,21 +25,25 @@ Youtube Videosu
 - TSH formu dolduruldu ve proje TSH seviyesi 8 e ulaştı  
   
 ### 4. Hafta
-- Uygulamanın kullanıcı arayüzleri detaylı bir şekilde **Figma**'da tasarlandı. **RAMS ilkeleri** göz önünde bulunduruldu.  
-  [Figma Linki](https://www.figma.com/design/hS9lL3RjlHZOPlyLyEPVNF/Untitled?node-id=0-1&t=TDmLttYSojRCXCQG-1)
+- Giriş Ekranı ve Kullanıcı Arayüzü Oluşturuldu
+- XML ve Kotlin İle
+- ![login](https://github.com/user-attachments/assets/3efda093-a55b-4f9c-a823-f80cfe6620ca)
+
 
 ### 5. Hafta
-- Kullanıcı arayüzleri (frontend) Flutter ile kodlandı.
+- AR için Gereksinimler ve kütüphaneler analiz edildi
+- Bu kütüphaneler denendi ve kullanıldı
 
-### 6. Hafta
-- MongoDB bağlantısı gerçekleştirildi.  
-  - Login ve register işlevleri eklendi.  
-  - Şifreler **SHA256** ile şifrelenerek veritabanında saklanıyor. (Güvenlik önlemi)
-  - Para birimi nesnesi veritabanına kaydediliyor.
+### 6. Hafta  
+  - Login ve register Backend Tatrafı Bitirildi
+  - AR için Gerekli Romen Rakamları Buludnu.
+   
+## Çocuklar İçin Eğlenceli Hale Getirildi. (Ör. 5 Sayısı) 
+![image](https://github.com/user-attachments/assets/a4b416e9-39c2-42ea-8686-c8786ca4ec77)
 
 ### 7. Hafta
-- **AR entegrasyonu** tamamlandı.
-- **Görev modülü** eklendi.
+- Kullanıcı Deneyimini İyileştirecek Son Testler ve Bakkımları Yapıldı
+ 
 
 ---
 
@@ -56,4 +60,5 @@ Youtube Videosu
 ---
 
 ## Proje Hakkında
-Bu proje, çocukların finansal okuryazarlığını geliştirmek için tasarlanmış bir mobil uygulamadır. Eğitici bir yapıya sahip olup, kullanıcı deneyimini geliştirmek için AR (Artırılmış Gerçeklik) entegrasyonu içermektedir.
+ Bu Mobil Uygulama Projesinde Amaç Çocuklar için Uçak içi Eğleneceği ve Öğreneceği Bir Mobil Uygulama Geliştirmekti. 
+ Uygulamada Çocuklar **Bir Romalı Gibi Sayabilecek** ve Bunu Eğlenerek Öğrenecektir. Bunu Kalıcı Kılmak İçin AR Entegrasyonu Yapılmıştır
