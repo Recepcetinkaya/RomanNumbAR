@@ -2,7 +2,9 @@
 
 **Recep ÇETİNKATYA-215541032**
 ---
-Youtube Videosu
+Web  Sitesi (https://recepcetinkaya.github.io/)
+---
+**Youtube Videosu**  (https://youtube.com/shorts/Ux8x1htWLzM)
 ---
 
 ## BİR ROMALI GİBİ SAY
