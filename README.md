@@ -23,7 +23,8 @@ Youtube Videosu
 ### 3. Hafta
 - Projenin gereksinim analizi dokümanı yazıldı.  
 - UML Diyagramları hazırlandı.  
-- TSH formu dolduruldu ve proje TSH seviyesi 8 e ulaştı  
+- TSH formu dolduruldu ve proje TSH seviyesi 8 e ulaştı
+  (https://trello.com/b/NrcW2R4J/ar-projesi)
   
 ### 4. Hafta
 - Giriş Ekranı ve Kullanıcı Arayüzü Oluşturuldu
