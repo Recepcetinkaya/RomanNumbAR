@@ -36,6 +36,7 @@ Web  Sitesi  ----> [RomaNumbAR](https://recepcetinkaya.github.io/RomaNumbAR.gith
 - Projenin ismi belirlendi -> **RomanNubAR**  
   
 - Trello panosu -> [https://trello.com/b/NrcW2R4J/ar-projesi)
+- Bütütn dosyalar,diyagramlar,gereksinim analizi ve süreç trelloda verilmiştir.
 - Logo oluşturuldu  ![Romen Rakam Logo](https://github.com/user-attachments/assets/9b9dd35b-747f-4809-8b7f-c77acb7fe48e)
 
   
@@ -43,7 +44,8 @@ Web  Sitesi  ----> [RomaNumbAR](https://recepcetinkaya.github.io/RomaNumbAR.gith
 ### 2. Hafta
 - Android Studio Kuruldu
 - Dil Belirlendi (KOTLİN)
-- Swot Analizi Yapıldı
+- Swot Analizi Yapıldı   [SWOT_Analizi_Cocuklar_Icin_Ucak_Ici_Eglence_Uygulaması.docx](https://github.com/user-attachments/files/18542114/SWOT_Analizi_Cocuklar_Icin_Ucak_Ici_Eglence_Uygulamasi.docx)
+
 
 ### 3. Hafta
 - Projenin gereksinim analizi dokümanı yazıldı.  
