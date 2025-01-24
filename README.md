@@ -4,7 +4,7 @@
 ---
 Web  Sitesi (https://recepcetinkaya.github.io/)
 ---
-**Youtube Videosu**  (https://youtube.com/shorts/Ux8x1htWLzM)
+**Youtube Videosu**  (https://youtube.com/shorts/imiqA0zQ1Gw?feature=share)
 ---
 
 ## BİR ROMALI GİBİ SAY
