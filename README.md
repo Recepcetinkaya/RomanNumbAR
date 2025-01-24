@@ -31,7 +31,8 @@ Web  Sitesi (https://recepcetinkaya.github.io/)
 ### 4. Hafta
 - Giriş Ekranı ve Kullanıcı Arayüzü Oluşturuldu
 - XML ve Kotlin İle
-- ![login](https://github.com/user-attachments/assets/3efda093-a55b-4f9c-a823-f80cfe6620ca)
+
+![Giriş](https://github.com/user-attachments/assets/cf775e37-2e0a-410f-81fc-76ff9eec8d9d)
 
 
 ### 5. Hafta
@@ -47,7 +48,38 @@ Web  Sitesi (https://recepcetinkaya.github.io/)
 
 ### 7. Hafta
 - Kullanıcı Deneyimini İyileştirecek Son Testler ve Bakkımları Yapıldı
- 
+ ### 8. Hafta:
+
+Web Sitesi Güncellemesi: Projenin web sitesi kullanıcı deneyimini artıracak şekilde yeniden tasarlandı. Daha modern ve çekici bir görünüm kazandırıldı.
+SaaS Protokolü Entegrasyonu: Uygulamaya SaaS (Software as a Service) protokolü entegre edildi. Bu sayede kullanıcılar, Roma rakamları ile ilgili toplama, çıkarma, çarpma ve bölme işlemleri gibi daha gelişmiş özelliklere ulaşabilmek için ücretli bir versiyona geçiş yapabilecekler.
+### 9. Hafta:
+
+Gereksinim Analizi ve UML Diyagramları Güncellemesi: SaaS protokolünün eklenmesiyle birlikte proje gereksinimleri ve UML diyagramları güncellendi. Özellikle matematiksel işlemler ve kullanıcı yetkilendirme süreçleri detaylı bir şekilde modellendi.
+Kullanıcı Arayüzü Geliştirmeleri: Uygulama içi kullanıcı arayüzü, SaaS özelliklerini destekleyecek şekilde düzenlendi. Ücretli ve ücretsiz versiyonlar arasındaki farklar, kullanıcıya net bir şekilde sunuldu.
+### 10. Hafta:
+
+AR Deneyimi İyileştirmesi: AR deneyimi, Roma rakamlarının daha doğru ve net bir şekilde görüntülenmesi için optimize edildi. Özellikle farklı cihaz ve ortamlarda daha iyi bir performans elde etmek için çalışmalar yapıldı.
+Hata Düzeltmeleri: Kullanıcı geri bildirimleri doğrultusunda, uygulamada tespit edilen küçük hatalar düzeltildi ve performans iyileştirmeleri yapıldı.
+### 11. Hafta:
+
+Dokümantasyon Güncellemesi: Proje dokümantasyonu, yapılan güncellemeleri yansıtacak şekilde güncellendi. Özellikle SaaS protokolü ve yeni özellikler hakkında detaylı bilgiler eklendi.
+Test Süreci: Uygulama, kapsamlı testlerden geçirildi. Hem manuel hem de otomatik testler yaparak, yeni eklenen özelliklerin sorunsuz çalıştığı doğrulandı.
+### 12. Hafta:
+
+Mobil Uygulama Mağazalarına Hazırlık: Uygulama, Google Play Store ve App Store'a gönderilmek üzere son hazırlık aşamasına getirildi. Uygulama açıklamaları, ekran görüntüleri ve diğer gerekli materyaller hazırlandı.
+### 13. Hafta:
+
+Pazarlama Stratejisi: Uygulamanın tanıtımı için bir pazarlama stratejisi belirlendi. Sosyal medya, blog yazıları ve basın bültenleri gibi farklı kanallar üzerinden uygulama hakkında farkındalık yaratılması hedeflendi.
+Kullanıcı Desteği: Kullanıcıların karşılaşabileceği sorunlara hızlı ve etkili çözümler sunmak için bir kullanıcı destek sistemi kuruldu.
+### 14. Hafta:
+
+### Uygulama Yayınlanması: 
+Uygulama, Google Play Store ve App Store'da yayınlandı. Kullanıcı geri bildirimleri toplanarak uygulamada sürekli iyileştirmeler yapılması hedeflendi.
+
+### Gelecek Planlar:
+Yeni Özellikler: Uygulamaya yeni özellikler eklenerek, kullanıcı deneyimi sürekli olarak geliştirilecek. Örneğin, farklı dil desteği, çok oyunculu mod gibi özellikler üzerinde çalışılabilir.
+Eğitim İçerikleri: Uygulamaya, Roma rakamları hakkında daha fazla bilgi veren eğitim içerikleri eklenebilir.
+Okul İşbirlikleri: Okullar ile işbirliği yaparak, uygulamanın eğitim süreçlerine entegre edilmesi sağlanabilir.
 
 ---
 
