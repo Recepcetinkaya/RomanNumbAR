@@ -67,14 +67,19 @@ Test Süreci: Uygulama, kapsamlı testlerden geçirildi. Hem manuel hem de otoma
 ### 12. Hafta:
 
 Mobil Uygulama Mağazalarına Hazırlık: Uygulama, Google Play Store ve App Store'a gönderilmek üzere son hazırlık aşamasına getirildi. Uygulama açıklamaları, ekran görüntüleri ve diğer gerekli materyaller hazırlandı.
+
 ### 13. Hafta:
 
-Pazarlama Stratejisi: Uygulamanın tanıtımı için bir pazarlama stratejisi belirlendi. Sosyal medya, blog yazıları ve basın bültenleri gibi farklı kanallar üzerinden uygulama hakkında farkındalık yaratılması hedeflendi.
-Kullanıcı Desteği: Kullanıcıların karşılaşabileceği sorunlara hızlı ve etkili çözümler sunmak için bir kullanıcı destek sistemi kuruldu.
+Uygulamanı SaaS sisteminde girilecek kredi kartı bilgileri için ödeme sayfası simüle edildi.
+![image](https://github.com/user-attachments/assets/f93590f6-180f-4c5a-b52c-286c055f0d1e)
+
 ### 14. Hafta:
 
 ### Uygulama Yayınlanması: 
-Uygulama, Google Play Store ve App Store'da yayınlandı. Kullanıcı geri bildirimleri toplanarak uygulamada sürekli iyileştirmeler yapılması hedeflendi.
+Son testler yapıldı. Hocanın istediği diğer diyagramlar yapıldı.
+YMGK sitesinde yazılan dökümasyonlar güncellendi.Trelloya atıldı link yukarda.
+Uygulama başarılı bir şekilde yapıldı ve teslim edildi.
+
 
 ### Gelecek Planlar:
 Yeni Özellikler: Uygulamaya yeni özellikler eklenerek, kullanıcı deneyimi sürekli olarak geliştirilecek. Örneğin, farklı dil desteği, çok oyunculu mod gibi özellikler üzerinde çalışılabilir.
