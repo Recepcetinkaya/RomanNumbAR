@@ -2,13 +2,36 @@
 
 **Recep ÇETİNKATYA-215541032**
 ---
-Web  Sitesi (https://recepcetinkaya.github.io/RomaNumbAR.github.io/)
+Web  Sitesi  ----> [RomaNumbAR](https://recepcetinkaya.github.io/RomaNumbAR.github.io/) 
 ---
-**Youtube Videosu**  (https://youtube.com/shorts/imiqA0zQ1Gw?feature=share)
+**Youtube Videosu** ----> [Video Linki](https://youtube.com/shorts/imiqA0zQ1Gw?feature=share)
 ---
 
 ## BİR ROMALI GİBİ SAY
+# RomanNubAR Projesi
 
+
+##  Proje Özeti
+
+**Amaç:** Çocuklar için artırılmış gerçeklik (AR) kullanarak Roman rakamlarını öğrenmeyi eğlenceli hale getirmek. Kullanıcılar, bir sayı girdiğinde Roman rakamı modelini görsel olarak deneyimleyebilirler.
+**Tema:** Roman rakamlarını öğrenme ve sayılar arasındaki ilişkiyi keşfetme.
+
+
+## ️ Kullanılan Teknolojiler ve Araçlar
+
+* **Programlama Dili:** Kotlin
+* **Geliştirme Ortamı:** Android Studio
+* **AR Kütüphanesi:** SceneView
+* **Grafikler:** GLB formatında Roman rakamları modelleri ve uyarlanabilir Android ikonları
+* **Test Araçları:** Android Emulator, Fiziksel cihaz testleri
+* **Veritabanı:** SharedPreferences
+* 
+## Özellikler
+* Kullanıcı, giriş ekranında hesap oluşturabilir ve giriş yapabilir.
+* Girilen sayıların Roman rakamı karşılığını 3D AR modeli olarak görüntüleme.
+* Çocuklara hitap eden renkli ve eğlenceli bir arayüz.
+* SceneView kütüphanesiyle entegre, gerçek zamanlı AR deneyimi.
+* Hafif ve hızlı çalışan uygulama yapısı.
 ### 1. Hafta
 - Projenin ismi belirlendi -> **RomanNubAR**  
   
@@ -25,8 +48,8 @@ Web  Sitesi (https://recepcetinkaya.github.io/RomaNumbAR.github.io/)
 ### 3. Hafta
 - Projenin gereksinim analizi dokümanı yazıldı.  
 - UML Diyagramları hazırlandı.  
-- TSH formu dolduruldu ve proje TSH seviyesi 8 e ulaştı
-  (https://trello.com/b/NrcW2R4J/ar-projesi)
+- TSH formu dolduruldu ve proje TSH seviyesi 8 e ulaştı[TSH Formu.xlsx](https://github.com/user-attachments/files/18541798/TSH.Formu.xlsx)
+    (https://trello.com/b/NrcW2R4J/ar-projesi)
   
 ### 4. Hafta
 - Giriş Ekranı ve Kullanıcı Arayüzü Oluşturuldu
